@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Trippy/static/css/main.64a44b7b.css",
+    "main.js": "/Trippy/static/js/main.9d4b44a5.js",
+    "index.html": "/Trippy/index.html",
+    "main.64a44b7b.css.map": "/Trippy/static/css/main.64a44b7b.css.map",
+    "main.9d4b44a5.js.map": "/Trippy/static/js/main.9d4b44a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64a44b7b.css",
+    "static/js/main.9d4b44a5.js"
+  ]
+}
